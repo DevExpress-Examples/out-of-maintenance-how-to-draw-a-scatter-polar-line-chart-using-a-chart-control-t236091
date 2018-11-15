@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/PolarLineScatterSeries/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/PolarLineScatterSeries/MainWindow.xaml))**
+<!-- default file list end -->
 # How to draw a scatter polar line chart using a chart control
 
 
